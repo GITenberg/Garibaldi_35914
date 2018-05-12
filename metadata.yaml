@@ -1,0 +1,28 @@
+_repo: Garibaldi_35914
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 35914-rst/images/cover.jpg
+creator:
+  author:
+    agent_name: Crispi, Francesco
+    birthdate: 1818
+    deathdate: 1901
+    gutenberg_agent_id: '37976'
+    url: http://www.gutenberg.org/2009/agents/37976
+    wikipedia: http://it.wikipedia.org/wiki/Francesco_Crispi
+description: ''
+gutenberg_bookshelf: IT Storia
+gutenberg_issued: '2011-04-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35914'
+language: it
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DG'
+- !lcsh 'Garibaldi, Giuseppe, 1807-1882'
+title: Garibaldi
+url: http://www.gutenberg.org/ebooks/35914
