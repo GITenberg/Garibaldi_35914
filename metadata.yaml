@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/37976
     wikipedia: http://it.wikipedia.org/wiki/Francesco_Crispi
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/35914#Garibaldi
 gutenberg_bookshelf: IT Storia
 gutenberg_issued: '2011-04-18'
 gutenberg_type: Text
